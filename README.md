@@ -1,6 +1,6 @@
 # Lottery Solidity Contract
 
-# Description
+# <sup>Description</sup>
 
 Solidity contract for ETH Lottery that allows users to play a part in an ETH Lottery.
 
