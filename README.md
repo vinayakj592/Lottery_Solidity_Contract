@@ -4,7 +4,7 @@
 
 Solidity contract for ETH Lottery that allows users to play a part in an ETH Lottery.
 
-#Features
+# Features
 * Picks Winner
 * Rests Lottery after winner is picked
 * Returns contract Balance
@@ -12,4 +12,4 @@ Solidity contract for ETH Lottery that allows users to play a part in an ETH Lot
 * Send the Winner the Ether
 * Hold on to 10% of all transaction as revenue
 * Generates Random Number
-* Admin not allowed to play part in lotter
+* Admin not allowed to play part in lottery
