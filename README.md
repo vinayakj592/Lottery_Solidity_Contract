@@ -1,10 +1,13 @@
 # Lottery Solidity Contract
 
+
+
 # <sup>Description</sup>
 
 Solidity contract for ETH Lottery that allows users to play a part in an ETH Lottery.
 
-# Features
+
+# <sup>Features</sup>
 * Picks Winner
 * Rests Lottery after winner is picked
 * Returns contract Balance
